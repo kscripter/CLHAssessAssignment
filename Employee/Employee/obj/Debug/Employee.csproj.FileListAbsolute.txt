@@ -1,0 +1,5 @@
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/Employee/Employee/bin/Debug/Employee.exe
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/Employee/Employee/bin/Debug/Employee.pdb
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/Employee/Employee/obj/Debug/Employee.csproj.CoreCompileInputs.cache
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/Employee/Employee/obj/Debug/Employee.exe
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/Employee/Employee/obj/Debug/Employee.pdb

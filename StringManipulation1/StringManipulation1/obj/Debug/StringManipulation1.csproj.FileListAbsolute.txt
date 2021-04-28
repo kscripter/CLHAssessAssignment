@@ -1,0 +1,5 @@
+/Users/kalimhome/Projects/StringManipulation1/StringManipulation1/bin/Debug/StringManipulation1.exe
+/Users/kalimhome/Projects/StringManipulation1/StringManipulation1/bin/Debug/StringManipulation1.pdb
+/Users/kalimhome/Projects/StringManipulation1/StringManipulation1/obj/Debug/StringManipulation1.csproj.CoreCompileInputs.cache
+/Users/kalimhome/Projects/StringManipulation1/StringManipulation1/obj/Debug/StringManipulation1.exe
+/Users/kalimhome/Projects/StringManipulation1/StringManipulation1/obj/Debug/StringManipulation1.pdb

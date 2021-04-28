@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0561F375-1396-4ADF-AD95-5E96D624E187}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringManipulation1/Program.cs">
+    <Files>
+      <File FileName="StringManipulation1/Program.cs" Line="19" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringManipulation1" expanded="True">
+            <Node name="StringManipulation1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StringManipulation1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

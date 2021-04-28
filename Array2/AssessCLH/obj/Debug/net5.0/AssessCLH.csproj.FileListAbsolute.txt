@@ -1,0 +1,15 @@
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/bin/Debug/net5.0/AssessCLH.deps.json
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/bin/Debug/net5.0/AssessCLH.runtimeconfig.json
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/bin/Debug/net5.0/AssessCLH.runtimeconfig.dev.json
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/bin/Debug/net5.0/AssessCLH.dll
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/bin/Debug/net5.0/ref/AssessCLH.dll
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/bin/Debug/net5.0/AssessCLH.pdb
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/AssessCLH.csprojAssemblyReference.cache
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/AssessCLH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/AssessCLH.AssemblyInfoInputs.cache
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/AssessCLH.AssemblyInfo.cs
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/AssessCLH.csproj.CoreCompileInputs.cache
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/AssessCLH.dll
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/ref/AssessCLH.dll
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/AssessCLH.pdb
+/Users/kalimhome/Projects/AssessCLH/AssessCLH/obj/Debug/net5.0/AssessCLH.genruntimeconfig.cache
