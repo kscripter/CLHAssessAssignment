@@ -16,8 +16,8 @@ namespace StringManipulation1
 
 
             //loop through the word from user
-            //for (int i = word.Length - 1; i >= 0; i--)
-            for (int i = 0; i > word.Length; i >= 0; i--)
+            for (int i = word.Length - 1; i >= 0; i--)
+           
             {
 
                 reverseWord = reverseWord + word[i];
