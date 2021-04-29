@@ -1,0 +1,15 @@
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/bin/Debug/net5.0/IfAndElse1.deps.json
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/bin/Debug/net5.0/IfAndElse1.runtimeconfig.json
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/bin/Debug/net5.0/IfAndElse1.runtimeconfig.dev.json
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/bin/Debug/net5.0/IfAndElse1.dll
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/bin/Debug/net5.0/ref/IfAndElse1.dll
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/bin/Debug/net5.0/IfAndElse1.pdb
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/IfAndElse1.csprojAssemblyReference.cache
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/IfAndElse1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/IfAndElse1.AssemblyInfoInputs.cache
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/IfAndElse1.AssemblyInfo.cs
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/IfAndElse1.csproj.CoreCompileInputs.cache
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/IfAndElse1.dll
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/ref/IfAndElse1.dll
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/IfAndElse1.pdb
+/Users/kalimhome/Projects/CLH_ASSESSMENTS/IfAndElse1/obj/Debug/net5.0/IfAndElse1.genruntimeconfig.cache
